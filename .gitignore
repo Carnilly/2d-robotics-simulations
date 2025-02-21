@@ -169,3 +169,20 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# ROS build and development folders
+build/
+devel/
+install/
+
+# ROS logs
+logs/
+
+# Catkin-specific
+catkin_ws/build/
+catkin_ws/devel/
+catkin_ws/install/
+
+# VS Code settings
+.vscode/
+
