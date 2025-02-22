@@ -1,2 +1,1 @@
-# humanoid-robot-simulation
-Developing intelligent humanoid robot simulations in ROS and Gazebo with Python, exploring LLM integration for high-level planning and autonomous behavior.
+A Python-based project using Pygame to simulate 2D robotics environments. The focus is on developing and testing core robotics concepts, including basic navigation, obstacle avoidance, and path planning. This project serves as a foundational step before transitioning to more advanced robotics simulations using ROS and Gazebo.
